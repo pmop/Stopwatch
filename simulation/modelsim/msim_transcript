@@ -1,0 +1,27 @@
+# Reading C:/Altera/16.0/modelsim_ase/tcl/vsim/pref.tcl
+# ERROR: No extended dataflow license exists
+# do stopwatch_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim ALTERA vmap 10.4d Lib Mapping Utility 2015.12 Dec 30 2015
+# vmap work rtl_work 
+# Copying C:/Altera/16.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/Pedro/Documents/stopwatch/Stopwatch-master/stopwatch.vhd}
+# Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 05:56:57 on Nov 04,2016
+# vcom -reportprogress 300 -93 -work work C:/Users/Pedro/Documents/stopwatch/Stopwatch-master/stopwatch.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity stopwatch
+# -- Compiling architecture counter of stopwatch
+# End time: 05:56:57 on Nov 04,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 

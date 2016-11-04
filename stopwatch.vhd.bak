@@ -31,8 +31,8 @@ end;
 architecture counter of stopwatch is
   signal count : integer := 1;
   signal clk : std_logic :='0';
-  
 begin --divide clock from 50Mhz to 10hz
+
   process(clock_50)
 
   begin
